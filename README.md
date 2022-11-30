@@ -4,7 +4,6 @@
 - 📫 Contate-me no email: maikoldepaula@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Graduando em Ciência da computação 
--->
 <br>
 <div>
 <img height="180px" width="-500px" src="https://github-readme-stats.vercel.app/api?username=Maikol031&show_icons=true&theme=tokyonight"/>
