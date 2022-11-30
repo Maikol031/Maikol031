@@ -6,3 +6,8 @@
 - ⚡ Graduando em Ciência da computação 
 -->
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maikol031&show_icons=true&theme=tokyonight"/>
+<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikol031&layout=compact&langs_count=16&theme=tokyonight"/>
+
+
+
