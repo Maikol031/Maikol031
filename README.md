@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Python
 - 📫 Contate-me no email: maikoldepaula@gmail.com
-- 😄 Pronomes: Ele/Dele
 - ⚡ Graduando em Ciência da computação 
 <br>
 <div>
