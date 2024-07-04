@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou Maikol Amaro😎</h1>
 
-- 🌱 Estudando Python
+- 😎 Desenvolvedor Full-Stack
 - 📫 Contate-me no email: maikoldepaula@gmail.com
 - ⚡ Graduando em Ciência da computação 
 <br>
