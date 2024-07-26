@@ -16,6 +16,8 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" />
+  <img width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
+  <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1AvoJXu1NMIvNfwIWMLEX0xp7ZyQ11RjoQ&s" />
 
 
 </div>
