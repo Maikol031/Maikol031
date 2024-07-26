@@ -18,7 +18,7 @@
   <img width="50" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" />
   <img width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
   <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1AvoJXu1NMIvNfwIWMLEX0xp7ZyQ11RjoQ&s" />
-
+  <img width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png" />
 
 </div>
   <hr>
